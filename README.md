@@ -1,6 +1,7 @@
 # DealWith - 视频/图片水印去除工具
 
 一款基于深度学习的视频与图片水印自动检测与去除工具。支持自动识别水印位置（角落白色文字水印）和手动框选模式，采用 LaMa 深度修复模型实现高质量画面还原。
+<img width="2559" height="1238" alt="2cde35a679d91ffcd59aa02e32f4e2a2" src="https://github.com/user-attachments/assets/1ff874ef-601a-4372-80c9-33630f328e53" />
 
 ## 功能特性
 
